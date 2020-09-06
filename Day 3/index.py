@@ -9,7 +9,7 @@ elif(land_plane>1000 and land_plane<5000):
 else:
     print("Turn Around")
 
-# Question 2
+# Question 2 print prime number between(1,200)
 
 for i in range(2,201): 
     for j in range(2,i): 
